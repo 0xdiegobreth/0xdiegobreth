@@ -2,7 +2,7 @@
 - 👀 I’m interested in crypto and sports
 - 🌱 I’m currently learning about crypto protocols
 - 💞️ I’m looking to collaborate on crypto solutions sales process
-- 📫 How to reach me: @0xdiegobr
+- 📫 How to reach me: X (former Twitter) @diegoincrypto
 
 <!---
 0xdiegobreth/0xdiegobreth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
